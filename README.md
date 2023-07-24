@@ -32,7 +32,7 @@ O código é acompanhado de um notebook em formato Markdown que facilita a leitu
 
 ## Instruções:
 1. Instale as bibliotecas necessárias usando `pip install numpy scikit-learn matplotlib`.
-2. Execute o notebook `Classificacao_Digitos_Manuscritos.ipynb` para ver a implementação passo a passo.
+2. Execute o notebook `image_recognition.ipynb` para ver a implementação passo a passo.
 
 **Observação:**
 O código pode ser facilmente adaptado para outros problemas de classificação, e o valor de "k" pode ser ajustado conforme necessário para obter o melhor desempenho no conjunto de validação.
